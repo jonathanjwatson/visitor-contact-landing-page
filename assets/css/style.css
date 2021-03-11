@@ -60,15 +60,15 @@ button {
 /* Id Selectors */
 
 #contact-form-section {
-    display: block;
-    margin: 0 auto;
-    background-color: #9c95dc;
-    padding: 50px;
+  display: block;
+  margin: 0 auto;
+  background-color: #9c95dc;
+  padding: 50px;
 }
 
-#contact-form-section h3{
-    text-align: center;
-    color: white;
+#contact-form-section h3 {
+  text-align: center;
+  color: white;
 }
 
 #nav {
