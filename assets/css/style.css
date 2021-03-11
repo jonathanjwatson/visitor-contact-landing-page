@@ -1,0 +1,44 @@
+/* Universal Selectors */
+* {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+/* Element Selectors */
+body {
+  position: relative;
+}
+footer {
+    background-color: #0B7189;
+    position: fixed;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+main {
+  padding: 100px 0;
+}
+header {
+  position: fixed;
+  top: 0;
+  background-color: #228cdb;
+  color: white;
+  width: 100%;
+  margin-bottom: 40px;
+}
+section {
+  display: block;
+}
+/* Class Selectors */
+
+.nav-link {
+  display: inline;
+}
+
+/* Id Selectors */
+
+#nav {
+  position: fixed;
+  right: 0;
+}
